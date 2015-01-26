@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style" xmi:id="_9SWnYKP4EeSh-MG4bDLEcQ" selectedViews="_9SpiUKP4EeSh-MG4bDLEcQ" version="8.1.1">
+  <models xmi:type="uml:Model" href="platform:/resource/airticket/model.uml#_NSeicKQBEeSh-MG4bDLEcQ"/>
+  <models xmi:type="uml:Package" href="platform:/resource/airticket/package.uml#_6Kue8KSDEeSBMtkT9LKotQ"/>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_9SpiUKP4EeSh-MG4bDLEcQ" initialized="true">
+    <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_1paEkKPuEeS8m_7Pno69ug" name="NewModel Class Diagram">
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_1paElqPuEeS8m_7Pno69ug" source="GMF_DIAGRAMS">
+        <data xmi:type="notation:Diagram" xmi:id="_1paEl6PuEeS8m_7Pno69ug" type="Sirius" element="_1paEkKPuEeS8m_7Pno69ug" measurementUnit="Pixel">
+          <children xmi:type="notation:Node" xmi:id="_1pjOgKPuEeS8m_7Pno69ug" type="2001" element="_1paEkaPuEeS8m_7Pno69ug">
+            <children xmi:type="notation:Node" xmi:id="_1pjOg6PuEeS8m_7Pno69ug" type="5002">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_1pjOhKPuEeS8m_7Pno69ug" y="5"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_2I2ZoKPuEeS8m_7Pno69ug" type="3005" element="_1paEkqPuEeS8m_7Pno69ug">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_2I2ZoaPuEeS8m_7Pno69ug" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2I2ZoqPuEeS8m_7Pno69ug"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_1pjOgaPuEeS8m_7Pno69ug" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1pjOgqPuEeS8m_7Pno69ug" width="439" height="89"/>
+          </children>
+          <styles xmi:type="notation:DiagramStyle" xmi:id="_1paEmKPuEeS8m_7Pno69ug"/>
+        </data>
+      </ownedAnnotationEntries>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_1paEkaPuEeS8m_7Pno69ug" width="-1" height="-1" resizeKind="NSEW">
+        <target xmi:type="uml:Model" href="platform:/resource/airticket/model.uml#_qGIOoKPuEeS8m_7Pno69ug"/>
+        <semanticElements xmi:type="uml:Model" href="platform:/resource/airticket/model.uml#_qGIOoKPuEeS8m_7Pno69ug"/>
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_1paEkqPuEeS8m_7Pno69ug" showIcon="false" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/icons/empty.svg">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_1paEk6PuEeS8m_7Pno69ug"/>
+          <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Reused%20Description']/@defaultLayer/@nodeMappings[name='Empty%20Diagram']/@style"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_1paElKPuEeS8m_7Pno69ug"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Reused%20Description']/@defaultLayer/@nodeMappings[name='Empty%20Diagram']"/>
+      </ownedDiagramElements>
+      <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']"/>
+      <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_1paElaPuEeS8m_7Pno69ug"/>
+      <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer"/>
+      <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@additionalLayers[name='Comments']"/>
+      <target xmi:type="uml:Model" href="platform:/resource/airticket/model.uml#_qGIOoKPuEeS8m_7Pno69ug"/>
+    </ownedRepresentations>
+    <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_O461cKP5EeSh-MG4bDLEcQ" name="airtickets Class Diagram">
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_O461dqP5EeSh-MG4bDLEcQ" source="GMF_DIAGRAMS">
+        <data xmi:type="notation:Diagram" xmi:id="_O461d6P5EeSh-MG4bDLEcQ" type="Sirius" element="_O461cKP5EeSh-MG4bDLEcQ" measurementUnit="Pixel">
+          <children xmi:type="notation:Node" xmi:id="_O461eaP5EeSh-MG4bDLEcQ" type="2001" element="_O461caP5EeSh-MG4bDLEcQ">
+            <children xmi:type="notation:Node" xmi:id="_O461fKP5EeSh-MG4bDLEcQ" type="5002">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_O461faP5EeSh-MG4bDLEcQ" y="5"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_O5EmcKP5EeSh-MG4bDLEcQ" type="3005" element="_O461cqP5EeSh-MG4bDLEcQ">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_O5EmcaP5EeSh-MG4bDLEcQ" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O5EmcqP5EeSh-MG4bDLEcQ"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_O461eqP5EeSh-MG4bDLEcQ" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O461e6P5EeSh-MG4bDLEcQ" width="439" height="89"/>
+          </children>
+          <styles xmi:type="notation:DiagramStyle" xmi:id="_O461eKP5EeSh-MG4bDLEcQ"/>
+        </data>
+      </ownedAnnotationEntries>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_O461caP5EeSh-MG4bDLEcQ" width="-1" height="-1" resizeKind="NSEW">
+        <target xmi:type="uml:Model" href="platform:/resource/airticket/model.uml#_qGIOoKPuEeS8m_7Pno69ug"/>
+        <semanticElements xmi:type="uml:Model" href="platform:/resource/airticket/model.uml#_qGIOoKPuEeS8m_7Pno69ug"/>
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_O461cqP5EeSh-MG4bDLEcQ" showIcon="false" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/icons/empty.svg">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_O461c6P5EeSh-MG4bDLEcQ"/>
+          <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Reused%20Description']/@defaultLayer/@nodeMappings[name='Empty%20Diagram']/@style"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_O461dKP5EeSh-MG4bDLEcQ"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Reused%20Description']/@defaultLayer/@nodeMappings[name='Empty%20Diagram']"/>
+      </ownedDiagramElements>
+      <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']"/>
+      <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_O461daP5EeSh-MG4bDLEcQ"/>
+      <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer"/>
+      <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@additionalLayers[name='Comments']"/>
+      <target xmi:type="uml:Model" href="platform:/resource/airticket/model.uml#_qGIOoKPuEeS8m_7Pno69ug"/>
+    </ownedRepresentations>
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']"/>
+  </ownedViews>
+</viewpoint:DAnalysis>
